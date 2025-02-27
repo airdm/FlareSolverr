@@ -1,4 +1,4 @@
-name: autotag
+name: autotag1
 
 on:
   push:
